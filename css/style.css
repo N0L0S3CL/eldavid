@@ -1,3 +1,6 @@
 body {
     background-color: hsla(360, 50%, 50%, 1);
 }
+p {
+    color:#cf0;
+}
